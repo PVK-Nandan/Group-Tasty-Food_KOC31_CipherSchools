@@ -562,7 +562,7 @@ img{
 .nav__logo{
   color: red;
   font-size: x-large;
-  font-style: oblique;
+  /* font-style: oblique; */
   text-decoration-line: underline;
  
 }
